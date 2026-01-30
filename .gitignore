@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.zip
+*.h5
+*.pt
+.DS_Store
+
