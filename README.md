@@ -1,4 +1,4 @@
-Predictive Maintenance using ML, DL, and RL
+#Predictive Maintenance using ML, DL, and RL
 Bu proje, endüstriyel makinelerin arıza durumlarını önceden tahmin etmek ve bakım süreçlerini optimize etmek için Makine Öğrenmesi (ML), Derin Öğrenme (DL) ve Takviyeli Öğrenme (RL) tekniklerini bir arada sunar. Projede AI4I 2020 Predictive Maintenance Dataset kullanılmıştır.
 
 📊 Proje Genel Bakış
